@@ -567,7 +567,7 @@ form a {
 }
 
 footer {
-  background: url(/images/footer.png);
+  background: url(../images/footer.png);
   height: 433.25px;
   background-size: cover;
   background-position: center;
